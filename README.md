@@ -27,6 +27,8 @@ adb devices
 npm start
 ```
 
+## Step 4: Run the Application
+
 ### For Android
 
 ```bash
